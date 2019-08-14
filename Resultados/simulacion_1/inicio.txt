@@ -1,0 +1,29 @@
+200
+100
+250
+120
+70
+650
+55
+0.03
+/home/missael/Documentos/semestre1/pf2018-tesla/proyecto_final/puntos/
+1
+00000.txt
+0.0 
+0.0
+
+
+## En este orden, las variables son:
+## (n) puntos de esfera 1
+## (r_1) radio de la esfera 1 (kpc)
+## (N) puntos de esfera 2
+## (r_2) radio de esfera 2 (kpc)
+## (vo) velocidad inicial maxima de las particulas (km/s)
+## (R) separación entre ambas esferas (en el eje x, en kpc)
+## (T) tiempo de analisis (giga años)
+## (h) paso de tiempo (giga años)
+## (dir) dirección de la carpeta a donde se guardarán los archivos (importante definirla)
+## (gen) si gen==1, se generan las esferas, si gen==0 entonces se lee todo de un archivo
+## (lee) nombre del archivo a leer
+## (rel_x) velocidad relativa en x (km / s)
+## (rel_y) velocidad relativa (km / s)

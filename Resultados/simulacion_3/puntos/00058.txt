@@ -1,0 +1,7 @@
+## Las primeras 4 lineas corresponden a la esfera 1 
+##las siguienets 0 lineas a la esfera 2
+## Las primeras tres columnas corresponden a la posición en 'x', 'y' y 'z', dadas en kpc, las siguientes tres a las velocidades, dadas en km/s
+-1.832 	0.884 	1.390 	38.208 	-18.337 	17.873 	
+-2.043 	1.070 	0.568 	-65.428 	-20.567 	-22.964 	
+4.454 	-2.334 	0.824 	15.760 	-32.336 	15.184 	
+-1.310 	-1.438 	-1.423 	19.046 	4.634 	7.636 	
